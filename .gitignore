@@ -1,0 +1,46 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment & credentials
+.env
+.env.*
+*.cnf
+*.ini
+*.cfg
+
+# MySQL dumps / backups
+*.sql
+*.sql.gz
+*.dump
+*.bak
+*.tar
+*.gz
+
+# Cache / temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+*.lock
+
+# Python (if using with Django/Flask/etc.)
+__pycache__/
+*.pyc
+venv/
+
+# Node.js (if using with JS backend/tools)
+node_modules/
+
+# Docker
+docker-compose.override.yml
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
