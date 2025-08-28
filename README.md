@@ -2,7 +2,7 @@
 # 🦷 Dental Clinic Database (MySQL)
 
 This project is a **MySQL relational database** designed for managing the operations of a dental clinic.  
-It provides a structured way to store and manage data about patients, dentists, appointments, treatments, and invoices.
+It provides a structured way to store and manage data about patients, dentists, appointments, treatments, invoices and payment.
 
 ---
 
